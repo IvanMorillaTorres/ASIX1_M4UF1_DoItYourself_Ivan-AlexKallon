@@ -1,0 +1,56 @@
+/* regla1y6  */
+*{
+    background-color: lemonchiffon;
+    font-family: 'Edu TAS Beginner', cursive;
+}
+/* regla2 */
+h1{
+    color: red;
+    text-align: center;
+ 
+}
+/* reggla3y5 */
+#estilo_titulo{
+    color: white;
+    padding: 5px;
+    width: 50%;
+    background-color: red;
+
+}
+h2{
+    color: white;
+    padding: 5px;
+    width: 50%;
+    background-color: red;
+    border-radius: 15px;
+}
+/* reggla4y7*/
+ol{
+padding: 5px;
+border-style: solid;
+border-color: red;
+border-radius:30px;
+}
+/* reggla8 */
+a{
+    text-decoration: none;
+}
+/* reggla6 */
+img{
+    width: 350px;
+    padding-left: 550px;
+}
+/* reggla 9 */
+.recuadro{
+    padding: 5px;
+    border: solid ;
+    border-color: red;
+   
+    border-radius: 15px;
+}
+/* reggla10 */
+#estilo_enlace{
+    padding: 0.5px;
+    background-color: rgb(64, 120, 225);
+    color: white;
+}
